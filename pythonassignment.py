@@ -1,3 +1,5 @@
+#Prakriti Saldiya
+#E22CSEU1610
 class FlightTable:
     def _init_(self):
         self.data = [
